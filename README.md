@@ -25,7 +25,6 @@
 | Lorena Etcheverry            | Universidad de la República                     | UY      |
 | Katja Hose                   | Vienna University of Technology                 | AU      |
 | Vasiliki Kalavri             | Boston University                               | US      |
-| Leonid Libkin                | IRIF & University of Edinburgh                  | UK      |
 | Sebastian Link               | University of Auckland                          | NZ      |
 | Matteo Lissandrini           | University of Verona                            | IT      |
 | Andrea Mauri                 | Université Lyon 1                               | FR      |
