@@ -22,6 +22,7 @@ social: false # includes social icons at the bottom of the page
 	<rect width="1" height="1" fill="url(#background-gradient)"/>
 	<g stroke-width="0.00125"></g>
 </svg>
+
 <table style=" display:none;" class="noborder">
 	<tbody>
 		<tr>
@@ -54,36 +55,13 @@ social: false # includes social icons at the bottom of the page
 </table>
 
 <br><br>
+
 Graphs are increasingly used to represent and capture information about interconnected real-world entities. A rich landscape of graph database systems has emerged to efficiently store, process, and analyse complex graph datasets. While these offer limited support for evolution mechanisms, the proliferation of continuously and collaboratively curated graph data has made it imperative to provide principled and practically tractable mechanisms to define and employ graph transformations and query languages.
 
 Some underlying challenges include the lack of practical formalisms for describing graph transformations and the absence of appropriate syntactic and semantic primitives for capturing and querying various aspects of temporality, such as timeliness or versioning. Moreover, upholding human aspects of graph transformation ecosystems, e.g., interoperability, reliability, scalability, and learning requirements, calls for the design of new models and techniques and for further discussions on the role and use of recent generative AI methods in this setting.
 
-## Important Dates
 
-| What                        | When                  |
-|----------------------------------------|-----------------------|
-| Abstract Submission                    | January  10th, 2025   |
-| Paper Submission                       | January  24th, 2025   |
-| Notification of Acceptance             | February  7th, 2025   |
-| Camera Ready Paper Due                 | February 14th, 2025   |
-| Workshop Date                          | March    25th, 2025   |
+{% include_relative important_dates.md %}
 
-  <style>
-        table {
-            width: 100%; /* Make the table full-width */
-            border-collapse: separate;
-            border-spacing: 0 10px; /* Add space between rows */
-            text-align: left; /* Align text to the left */
-        }
-        th, td {
-            padding: 15px; /* Add padding inside cells */
-            background-color: #f9f9f9; /* Light background color */
-            border: 1px solid #ddd; /* Add border around cells */
-        }
-        th {
-            background-color: #f1f1f1; /* Slightly darker header background */
-            font-weight: bold; /* Make header text bold */
-        }
-    </style>
 
-<script src="{{ site.baseurl | prepend: site.url }}/animated-floating-graph-nodes.js">
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/animated-floating-graph-nodes.js">

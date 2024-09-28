@@ -4,7 +4,10 @@
 
 // Typography
 
-p,
+p {
+  text-align: justify;
+}
+
 h1,
 h2,
 h3,
@@ -1286,4 +1289,31 @@ ninja-keys::part(ninja-input-wrapper) {
   .arrow:before {
     border-bottom-color: var(--global-divider-color);
   }
+}
+
+table {
+  width: 100%;
+  /* Make the table full-width */
+  border-collapse: separate;
+  border-spacing: 0 10px;
+  /* Add space between rows */
+  text-align: left;
+  /* Align text to the left */
+}
+
+th,
+td {
+  padding: 15px;
+  /* Add padding inside cells */
+  background-color: #f9f9f9;
+  /* Light background color */
+  border: 1px solid #ddd;
+  /* Add border around cells */
+}
+
+th {
+  background-color: #f1f1f1;
+  /* Slightly darker header background */
+  font-weight: bold;
+  /* Make header text bold */
 }

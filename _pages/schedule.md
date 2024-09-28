@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 
-<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/custom.css">
+<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/assets/css/custom.css">
 
 
 <div class="container_tl">
@@ -186,4 +186,4 @@ nav_order: 7
 
     </div>
 
-<script src="{{ site.baseurl | prepend: site.url }}/timeline.js">
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/timeline.js">
