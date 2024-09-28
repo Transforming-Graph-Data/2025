@@ -3,7 +3,8 @@ name: Deploy site
 on:
   push:
     branches:
-      - alfolio
+      - master
+      - main
     paths:
       - "assets/**"
       - "**.bib"
