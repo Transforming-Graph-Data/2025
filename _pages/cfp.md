@@ -48,7 +48,7 @@ TGD welcomes high-quality *research*, *application*, and *vision* papers.
 
 *Vision papers* should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these in the future.
 
-The expected format for submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the CEUR online proceedings, either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
+The expected format for submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the [CEUR online proceedings](https://ceur-ws.org/), either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
 
 ## Conflicts of Interest Policy
 
