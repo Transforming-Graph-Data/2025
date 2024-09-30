@@ -46,14 +46,14 @@ TGD welcomes high-quality *research*, *application*, and *vision* papers.
 
 *Application papers* are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
 
-*Vision papers* should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these in the future.
+*Vision papers* should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
 
 The expected format for submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the [CEUR online proceedings](https://ceur-ws.org/), either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
 
-## Conflicts of Interest Policy
+## Conflicts of Interest (COI) Policy
 
 * PC Members are encouraged to submit papers to the workshop.
 * TGD will employ **single-blind reviewing**, following the EDBT/ICDT 2025 Joint Conference policy. Submissions must include the names and affiliations of all authors. At the same time, reviewers remain anonymous and respect the guidelines of diversity & inclusion in writing upheld by EDBT/ICDT, SIGMOD, and VLDB.  
 * Upon submitting a paper, the authors may indicate PC members that they deem unsuitable for reviewing their submission due to a conflict of interest (defined following the EDBT/ICDT 2025 criteria). PC members will also be given the list of submitting authors and asked to identify those they deem to be in a conflict of interest. The PC chairs will analyse the conflicts of interest declared by authors and PC members to identify any potentially spurious conflicts.  
-* A senior PC member or external reviewer will be designated to handle papers that have a conflict of interest with the organisers.  
+* A senior PC member or external reviewer will be designated to handle papers that have a COI with the organisers.  
 
