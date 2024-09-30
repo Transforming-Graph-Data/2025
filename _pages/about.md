@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Graphs are increasingly used to represent and capture information about interconnected real-world entities. A rich landscape of graph database systems has emerged to efficiently store, process, and analyse complex graph datasets. While these offer limited support for evolution mechanisms, the proliferation of continuously and collaboratively curated graph data has made it imperative to provide principled and practically tractable mechanisms to define and employ graph transformations and query languages.
+Graphs are increasingly used to represent and capture information about interconnected real-world entities. A rich landscape of graph database systems has emerged to efficiently store, process, and analyse complex graph datasets. While these offer limited support for evolution mechanisms, the proliferation of continuously and collaboratively curated graph data has made it imperative to provide principled and tractable mechanisms to define and employ graph transformations and query languages.
 
 <svg class="container" version="1.1" xmlns="http://www.w3.org/2000/svg" style="display:block; width:40em; height:40em; margin:0em auto">
     <radialGradient id="background-gradient">

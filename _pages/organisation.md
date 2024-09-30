@@ -5,7 +5,7 @@ title: organisation
 description: This page lists the member of the workshop committee
 nav: true
 nav_order: 3
-categories: ["Chairs","PC Members"]
+categories: ["Chairs","PC Members (incomplete list)"]
 profiles:
  
   - align: right
