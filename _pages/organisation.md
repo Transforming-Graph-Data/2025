@@ -69,11 +69,11 @@ profiles:
     image_circular: yes
     role: PC Members
 
-  - align: right
+  - align: left
     image: committee/lorena_etcheverry.jpg
     description: <br><br> Lorena Etcheverry, Universidad de la República, Uruguay 🇺🇾
     image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: left
     image: committee/katja_hose2.jpg
@@ -105,11 +105,11 @@ profiles:
     image_circular: yes
     role: PC Members
 
-  - align: right
+  - align: left
     image: committee/alexandra_rogova.jpg
     description: <br><br> Alexandra Rogova, Université de Paris, France 🇫🇷
     image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: left
     image: committee/christopher_rost2.jpg
