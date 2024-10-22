@@ -36,7 +36,7 @@ profiles:
     image: committee/angela_bonifati.jpg
     description: <br><br> Angela Bonifati, Université Lyon 1 & IUF, France 🇫🇷
     image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: right
     image: committee/sourav_bhowmick.jpg
@@ -90,7 +90,7 @@ profiles:
     image: committee/leonid_libkin.jpg
     description: <br><br> Leonid Libkin, Université Paris-Cité, France 🇫🇷 & RelationalAI, United States 🇺🇸
     image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: left
     image: committee/sebastian_link.jpg
