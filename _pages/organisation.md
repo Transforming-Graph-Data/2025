@@ -26,14 +26,13 @@ profiles:
     image_circular: yes
     role: PC Members NC
     
-
   - align: left
     image: committee/peter_boncz.jpg
     description: <br><br> Peter Boncz, CWI, Netherlands 🇳🇱
     image_circular: yes
     role: PC Members NC
     
-   - align: left
+  - align: left
     image: committee/angela_bonifati.jpg
     description: <br><br> Angela Bonifati, Université Lyon 1 & IUF, France 🇫🇷
     image_circular: yes
@@ -44,7 +43,6 @@ profiles:
     description: <br><br> Sourav Bhowmick, Nanyang Technological University, Singapore 🇸🇬
     image_circular: yes
     role: PC Members NC
-
 
   - align: left
     image: committee/diego_calvanese.jpg
@@ -88,7 +86,7 @@ profiles:
     image_circular: yes
     role: PC Members NC
     
-   - align: left
+  - align: left
     image: committee/leonid_libkin.jpg
     description: <br><br> Leonid Libkin, Université Paris-Cité, France 🇫🇷 & RelationalAI, United States 🇺🇸
     image_circular: yes
