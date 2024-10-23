@@ -138,5 +138,5 @@ profiles:
     image: committee/hannes_voigt.jpg
     description: <br><br> Hannes Voigt, Neo4j, Germany 🇩🇪
     image_circular: yes
-    role: PC Members NC
+    role: PC Members 
 ---
