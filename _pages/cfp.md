@@ -11,7 +11,7 @@ The workshop aims to provide a platform for the communities working on and with 
 
 ### Graph Transformations and Querying  
 
-* Human-centred and human-based approaches for graph transformations  
+* Human-centered and human-based approaches for graph transformations  
 * Logical aspects of graph transformations (based on rules, rewriting, algebra, etc.)  
 * Generative AI (LLM) methods for transforming graphs  
 * Learning graph transformations (inductive learning, self-regulated learning, etc.)  
@@ -42,15 +42,16 @@ TGD welcomes high-quality *research*, *application*, and *vision* papers.
 *Research papers* should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
 
 * original and unpublished results or  
-* recent results have already been accepted or published at an international workshop or conference. **These will not count as new publications.** If accepted, a short abstract referencing the original publication will be included in the proceedings.
+* recent results that have already been accepted or published at an international workshop or conference. **These will not count as new publications.** If accepted, a short abstract referencing the original publication will be included in the proceedings.
 
 *Application papers* are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
 
 *Vision papers* should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
 
-The expected format for all submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the [CEUR online proceedings](https://ceur-ws.org/), either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
+The expected format for all submission types is **six pages in CEUR Double Column Format**. All TGD papers will be published in the [CEUR online proceedings](https://ceur-ws.org/), either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
 
 All submissions will be electronic via CMT. The submission site is available as of October 24, 2024 at the following link:
+
 [https://cmt3.research.microsoft.com/TGDWorkshop2025](https://cmt3.research.microsoft.com/TGDWorkshop2025)
 
 ## Conflicts of Interest (COI) Policy
