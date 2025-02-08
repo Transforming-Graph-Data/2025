@@ -3,9 +3,11 @@ layout: profiles
 permalink: /invited/
 title: invited speakers
 description: the invited keynotes and the panelist of this workshop edition
-nav: false
+nav: true
 nav_order: 4
-categories: ["Keynote Speakers", "Panelists"]
+categories: ["Keynote Speakers"]
+# categories: ["Keynote Speakers", "Panelists"]
+
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -13,13 +15,13 @@ profiles:
   - align: right
     image: ytian.jpg
     content: keynote1.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     role: "Keynote Speakers"
 
   - align: left
     image: jreutter.png
     content: keynote2.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     role: "Keynote Speakers"
 
   
