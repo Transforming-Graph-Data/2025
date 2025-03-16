@@ -31,6 +31,12 @@ profiles:
     description: <br><br> Peter Boncz, CWI, Netherlands 🇳🇱
     image_circular: yes
     role: PC Members NC
+
+  - align: left
+    image: committee/shubhangi_agarwal.jpg
+    description: <br><br> Shubhangi Agarwal, Université Lyon 1, LIRIS, CNRS, France 🇫🇷
+    image_circular: yes
+    role: PC Members
     
   - align: left
     image: committee/angela_bonifati.jpg
@@ -62,6 +68,12 @@ profiles:
     image_circular: yes
     role: PC Members NC
 
+   - align: left
+    image: committee/olivier_cure.jpg
+    description: <br><br> Olivier Curé, Marne-la-Vallée University, LIGM, CNRS, France 🇫🇷
+    image_circular: yes
+    role: PC Members
+
   - align: left
     image: committee/thomas_eiter.jpg
     description: <br><br> Thomas Eiter, Vienna University of Technology, Austria 🇦🇹
@@ -85,10 +97,16 @@ profiles:
     description: <br><br> Vasiliki Kalavri, Boston University, United States 🇺🇸
     image_circular: yes
     role: PC Members NC
+
+  - align: left
+    image: committee/haridimos_kondylakis.jpg
+    description: <br><br> Haridimos Kondylakis, ICS-FORTH, Crete University, Greece 🇬🇷
+    image_circular: yes
+    role: PC Members
     
   - align: left
     image: committee/leonid_libkin.jpg
-    description: <br><br> Leonid Libkin, Université Paris-Cité, France 🇫🇷 & RelationalAI, United States 🇺🇸
+    description: <br><br> Leonid Libkin, Université Paris-Cité, IRIF, France 🇫🇷 & RelationalAI, United States 🇺🇸
     image_circular: yes
     role: PC Members
 
@@ -111,6 +129,18 @@ profiles:
     role: PC Members
 
   - align: left
+    image: committee/amedeo_pachera.jpg
+    description: <br><br> Amedeo Pachera, Université Lyon 1, France 🇫🇷
+    image_circular: yes
+    role: PC Members
+
+  - align: left
+    image: committee/mohamed_ragab.jpg
+    description: <br><br> Mohamed Ragab, University of Southampton, United Kingdom  🇬🇧
+    image_circular: yes
+    role: PC Members
+
+  - align: left
     image: committee/alexandra_rogova.jpg
     description: <br><br> Alexandra Rogova, Université de Paris, France 🇫🇷
     image_circular: yes
@@ -125,6 +155,18 @@ profiles:
   - align: left
     image: committee/petra_selmer.jpg
     description: <br><br> Petra Selmer, Bloomberg, United Kingdom 🇬🇧
+    image_circular: yes
+    role: PC Members 
+
+  - align: left
+    image: committee/christopher_spinrath.jpg
+    description: <br><br> Christopher Spinrath, Université Lyon 1, France 🇫🇷
+    image_circular: yes
+    role: PC Members 
+
+  - align: left
+    image: committee/hrishikesh_terdalkar.jpg
+    description: <br><br> Hrishikesh Terdalkar, Université Lyon 1, France 🇫🇷
     image_circular: yes
     role: PC Members 
 
