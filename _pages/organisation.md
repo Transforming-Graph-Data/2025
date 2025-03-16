@@ -68,7 +68,7 @@ profiles:
     image_circular: yes
     role: PC Members NC
 
-   - align: left
+  - align: left
     image: committee/olivier_cure.jpg
     description: <br><br> Olivier Curé, Marne-la-Vallée University, LIGM, CNRS, France 🇫🇷
     image_circular: yes
