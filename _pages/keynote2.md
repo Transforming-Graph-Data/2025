@@ -1,0 +1,4 @@
+## Juan Reutter
+
+Juan is an Associate Professor in the Department of Computer Science and the Institute for Mathematical Engineering and Computing at Pontificia Universidad Católica de Chile. He also serves as the Director of the Institute for Foundational Research on Data (IMFD). His research focuses on the mathematical foundations of data management, web data, and artificial intelligence. At IMFD, he also co-leads an interdisciplinary team studying the socio-political effects of data. Juan earned his PhD from the University of Edinburgh in 2013, where his thesis received the BCS Distinguished Dissertation Award. His work has also been recognized with the Ramon Salas Edwards Award from the Chilean Institute of Engineers (2012), the Cor Baayen Young Researcher Award from the European Research Consortium for Informatics and Mathematics (2014), Best Paper Awards at PODS 2011 and ISWC 2019, and an Outstanding Paper Award at ICLR 2022.
+
